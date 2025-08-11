@@ -1,5 +1,7 @@
 # ESP32 LED Uhr mit Websteuerung
 
+![ESP32 LED Uhr Hardware](images/hardware.jpg)
+
 Dieses Projekt steuert bis zu 3x 8x8 WS2812B-LED-Panels mit einem ESP32.  
 Es bietet eine Weboberfläche zum Einstellen von:
 - Anzeige-Modus (Uhr, Regenbogen, feste Farbe, Lauftext)
