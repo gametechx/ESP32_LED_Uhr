@@ -16,7 +16,7 @@ Es bietet eine Weboberfläche zum Einstellen von:
 
 ## Schaltplan
 
-ESP32 Pin 15 → DIN erstes Panel
+ESP32 Pin 13 → DIN erstes Panel
 5V → 5V Panel
 GND → GND Panel
 
