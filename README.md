@@ -1,6 +1,6 @@
 # ESP32 LED Uhr mit Websteuerung
 
-![ESP32 LED Uhr Hardware]([images/hardware.jpg](https://github.com/gametechx/ESP32_LED_Uhr/blob/main/ESP32_LED_Uhr.ino))
+![ESP32 LED Uhr Hardware](https://github.com/gametechx/ESP32_LED_Uhr/blob/main/ESP32_LED_Uhr.ino)
 
 Dieses Projekt steuert bis zu 3x 8x8 WS2812B-LED-Panels mit einem ESP32.  
 Es bietet eine Weboberfläche zum Einstellen von:
